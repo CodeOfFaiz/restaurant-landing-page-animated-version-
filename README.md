@@ -45,3 +45,6 @@ npm run dev
 - Tailwind CSS v4 (CSS-first config via `@theme`)
 - Vite 6
 - Google Fonts: Poppins
+
+## 👤 Author
+Mohd Faiz
