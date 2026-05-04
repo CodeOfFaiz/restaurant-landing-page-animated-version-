@@ -64,7 +64,7 @@ export default function Hero() {
       {/* Floating burger */}
       <div className="hero-image-wrapper relative z-10 mt-10 md:mt-0">
         <img
-          src="/src/assets/burger.png"
+          src="/burger.png"
           alt="Delicious Burger"
           className="w-60 md:w-80 lg:w-[400px] xl:w-[460px] drop-shadow-2xl"
         />
